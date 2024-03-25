@@ -3,6 +3,9 @@ export default {
   content: ['./src/**/*.{html,js,svelte,ts}'],
   theme: {
     extend: {
+      boxShadow:{
+        "diag" : "10px 10px 10px #c7d2fe",
+      },
       colors:{
         "github" : "#161B22",
         "linkedin" : "#0A66C2",
