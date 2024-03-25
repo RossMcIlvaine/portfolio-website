@@ -6,9 +6,11 @@
     
 </script>
 
-<Header/>
-<slot />
-<Footer/>
+<main class="bg-black pt-10 pb-5 flex flex-col justify-center">
+    <Header/>
+    <slot />
+    <Footer/>
+</main>
 
 <style>
 

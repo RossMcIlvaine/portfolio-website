@@ -1,5 +1,7 @@
 <script>
-    import Main from "../components/Main.svelte";
+    import HeroSection from "../components/HeroSection.svelte";
+    import Experience from "../components/Experience.svelte";
 </script>
 
-<Main/>
+<HeroSection/>
+<Experience/>
