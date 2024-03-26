@@ -1,5 +1,11 @@
 <script>
-    import Main from "../components/Main.svelte";
+    import HeroSection from "../components/HeroSection.svelte";
+    import ExperienceSection from "../components/ExperienceSection.svelte";
+	import Projects from "../components/Projects.svelte";
+    import Education from "../components/Education.svelte";
 </script>
 
-<Main/>
+<HeroSection/>
+<ExperienceSection/>
+<Projects/>
+<Education/>
