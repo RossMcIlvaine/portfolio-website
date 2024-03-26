@@ -6,14 +6,14 @@
     export let details: string[];
 </script>
 
-<div class="flex justify-between bg-slate-600 w-5/6 rounded-md p-3">
+<div class="flex justify-between bg-slate-600 rounded-md p-3 w-full">
     <div class="flex flex-col">
         <h2 class="text-white text-2xl">{company}</h2>
         <h3 class="text-white text-1xl">{title} | <i>{startDate} - {endDate}</i></h3>
         {#each details as detail}
-        <li class="text-white">
-            {detail}
-        </li>
+            <li class="text-white">
+                {detail}
+            </li>
         {/each}
     </div>
     <slot name="photo"/>
