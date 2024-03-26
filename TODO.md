@@ -1,7 +1,7 @@
 Add Base Components
 ~~- Hero Section
 ~~- Experience
-- Projects
+~~- Projects
 - Header and Nav
 
 Finalize Text

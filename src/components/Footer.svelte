@@ -9,4 +9,5 @@
         <SocialButton url="https://www.linkedin.com/in/ross-mcilvaine-95355a16b/" color="linkedin"/> 
         <SocialButton url="https://www.instagram.com/rossmcilvaine/" color="instagram"/>
     </div>
+    <h3 class="text-white mt-2">@ 2024 Ross McIlvaine IV. All rights reserved.</h3>
 </main>
