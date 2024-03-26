@@ -9,5 +9,5 @@
             I currently work at Epic Systems, where I'm a lead developer on the Data Warehousing team.
         </p>
     </div>
-    <img src="/images/ProfilePic.jpg" alt="Profile Headshot" class="w-1/4 h-1/5 rounded-full shadow-diag shadow-mainHighlight mb-3">
+    <img src="/images/ProfilePic.jpg" alt="Profile Headshot" class="w-1/4 rounded-full shadow-diag mb-3">
 </div>
