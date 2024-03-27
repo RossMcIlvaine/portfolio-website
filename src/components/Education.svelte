@@ -11,7 +11,7 @@
 
 </script>
 
-<div id="Education" class="flex flex-col items-center space-y-5 w-11/12">
+<div class="flex flex-col items-center space-y-5 w-11/12">
     <div class="flex justify-between bg-slate-600 rounded-md p-3 w-full">
         <div class="flex flex-col">
             <h2 class="text-white text-2xl">{school}</h2>
