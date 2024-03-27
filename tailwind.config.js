@@ -14,8 +14,12 @@ export default {
         "linkedin" : "#0A66C2",
         "instagram" : "#E84E47",
       },
+      fontFamily:{
+        "Biryani" : ["Biryani", "sans-serif"],
+      },
       fontSize:{
         "socialIcon" : "1.875rem",
+        "title" : "6rem"
       },
       transitionDuration:{
         "0.5" : "0.5s",
