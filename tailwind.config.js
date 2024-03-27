@@ -6,6 +6,7 @@ export default {
       boxShadow:{
         "diag" : "10px 10px #EB6763",
         "binder" : "10px 0px #EB6763",
+        "navigation" : "0px 10px #EB6763"
       },
       colors:{
         "mainBackground" : "#1F1F1F",

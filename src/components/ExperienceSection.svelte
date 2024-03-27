@@ -18,7 +18,7 @@
     ]
 </script>
 
-<div id="Experience" class="flex flex-col items-center space-y-5 w-11/12">
+<div class="flex flex-col items-center space-y-5 w-11/12">
     <Experience company="Epic Systems" title="Full Stack Developer" startDate="August 2022" endDate="Present" details={epicDetails}>
         <!-- <img class="w-24 h-12 bg-white" slot="photo" src="/images/epic.png" alt="Epic Systems Logo"/> -->
     </Experience>

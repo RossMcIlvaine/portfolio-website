@@ -4,15 +4,18 @@
     import Footer from "../components/Footer.svelte";
 	import ToTopButton from "../components/ToTopButton.svelte";
 	import Navigation from "../components/Navigation.svelte";
+	import Spine from "../components/Spine.svelte";
 </script>
 
-<main class="flex">
+<main class="flex flex-col">
     <Navigation/>
-    <div class="bg-mainBackground pt-10 pb-5 flex flex-col space-y-10 items-center">
-        <Header/>
-        <slot />
-        <Footer/>
-        <ToTopButton/>
+    <div class="flex">
+        <div class="bg-mainBackground pt-10 pb-5 flex flex-col space-y-10 items-center">
+            <Header/>
+            <slot />
+            <Footer/>
+            <ToTopButton/>
+        </div>
     </div>
 </main>
 

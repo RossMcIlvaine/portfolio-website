@@ -14,8 +14,8 @@ Finalize Text
 - Education
 
 Finalize Styling
-- Containers for each section
-- Get a font
+~~- Containers for each section
+~~- Get a font
 - Make sure it is reactive
 ~~- Favicon
 

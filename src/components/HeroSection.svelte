@@ -1,5 +1,4 @@
 <script>
-    let name = "Ross McIlvaine"
 </script>
 
 <div class="flex flex-col-reverse md:flex-row justify-center items-center">
