@@ -4,7 +4,8 @@ export default {
   theme: {
     extend: {
       boxShadow:{
-        "diag" : "10px 10px #c7d2fe",
+        "diag" : "10px 10px #EB6763",
+        "binder" : "10px 0px #EB6763",
       },
       colors:{
         "mainBackground" : "#1F1F1F",
@@ -13,14 +14,20 @@ export default {
         "linkedin" : "#0A66C2",
         "instagram" : "#E84E47",
       },
+      fontFamily:{
+        "Biryani" : ["Biryani", "sans-serif"],
+      },
       fontSize:{
         "socialIcon" : "1.875rem",
+        "title" : "6rem"
       },
       transitionDuration:{
         "0.5" : "0.5s",
       },
       width:{
-        "30" : "30%",
+        "nav" : "10%",
+        "30%" : "30%",
+        "95%" : "95%"
       }
     },
   },

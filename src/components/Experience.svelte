@@ -18,4 +18,3 @@
     </div>
     <slot name="photo"/>
 </div>
-

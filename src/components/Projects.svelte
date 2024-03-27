@@ -50,7 +50,7 @@
     );
 </script>
 
-<div class="flex flex-col w-11/12 md:flex-row md:grid-cols-3 justify-between space-y-5 md:space-y-0">
+<div id="Projects" class="flex flex-col w-11/12 md:flex-row md:grid-cols-3 justify-between space-y-5 md:space-y-0">
     {#each projects as project}
         <ProjectCard title={project.title} subtitle={project.subtitle} details={project.details}/>
     {/each}
