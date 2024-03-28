@@ -4,7 +4,7 @@ Add Base Components
 ~~- Projects
 ~~- Education
 ~~- Header and Nav
-- Mobile Nav
+~~- Mobile Nav
 ~~- To Top Button
 
 Finalize Text
