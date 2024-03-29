@@ -2,19 +2,16 @@
     import Experience from "./Experience.svelte";
 
     let epicDetails = [
-        "Project Lead for new functionality to create bridges between external datasets and Epic’s data analytics platforms", 
-        "Lead Developer and Code Reviewer for newly released data ingestion application",
+        "Project Lead for user requested functionality to create bridges between external datasets and Epic’s data analytics platforms", 
+        "Lead Developer for newly released data ingestion application using TypeScript, React, C#, and SQL",
         "Conduct SQL performance review for development across the company",
-        "Design and develop features for applications serving a large user base, ensuring optimal performance and user experience"
-
+        "Design features for applications serving a large user base, ensuring optimal performance and user experience"
     ];
     let tattleDetais = [
         "Launched marketing website redesign for desktop and mobile using HTML, CSS, and Javascript inside a Svelte application",
         "Created and managed backend for form submission using AWS DynamoDB, Lambda, and API Gateway",
-        "Communicated closely with UI/UX designer and other engineers to build site to design specifications", 
         "Worked alongside engineering team in Agile development environment",
         "Directed multiples website advancement showcases to wider organization"
-
     ]
 </script>
 

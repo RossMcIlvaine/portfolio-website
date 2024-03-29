@@ -19,6 +19,8 @@
     </div>
 </main>
 
-<style>
-
-</style>
+<svelte:head>
+    <title>Ross McIlvaine</title>
+    <meta name="description" content="Welcome! I'm Ross, a full stack software developer in Madison, WI."/>
+    <link rel="canonical" href="rossmcilvaine.com"/>
+</svelte:head>

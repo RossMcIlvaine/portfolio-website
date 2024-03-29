@@ -15,7 +15,7 @@
     <div class="flex justify-between bg-slate-600 rounded-md p-3 w-full border-l-mainHighlight border-t-mainHighlight border-4">
         <div class="flex flex-col">
             <h2 class="text-white text-2xl">{school}</h2>
-            <h3 class="text-white">{degree} | <i>{startDate} - {endDate}</i></h3>
+            <h3 class="text-white"><i>{degree}</i> | <i>{startDate} - {endDate}</i></h3>
             {#each achievements as achievement}
                 <li class="text-white">
                     {achievement}

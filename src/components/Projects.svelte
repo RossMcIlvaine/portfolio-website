@@ -21,8 +21,8 @@
             "Personal Portfolio",
             [
                 "Using Svelte framework with TypeScript and Tailwind CSS to build web app from scratch",
-                "Design and develop beautiful, reactive, and modular components",
-                "Deployed to web using Cloudflare and GitHub pages"
+                "Designed and developed clean, reactive, and modular components",
+                "Deployed to web using Cloudflare Pages"
             ]
         )
     );
@@ -31,9 +31,9 @@
             "Campus Wayzz",
             "Databases Application Project",
             [
-                "Worked on team to build a campus discovery application using MongoDB, React, Node.js, and Google APIs",
-                "Designed and built frontend interfaces for campus discovery app using JavaScript and React",
-                "Used MongoDB to store and authenticate user and location data"
+                "Worked on team to build a campus discovery mobile application using MongoDB, React, Node.js, and Google APIs",
+                "Designed systems to promote user interaction, engagement, and collaboration",
+                "Built frontend UI for new user registration and secure login"
             ]
         )
     );

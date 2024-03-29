@@ -6,19 +6,21 @@ Add Base Components
 ~~- Header and Nav
 ~~- Mobile Nav
 ~~- To Top Button
+- Resume
 
 Finalize Text
-- Hero Section
-- Experience
-- Projects
-- Education
+~~- Hero Section
+~~- Experience
+~~- Projects
+~~- Education
 
 Finalize Styling
 ~~- Containers for each section
 ~~- Get a font
-- Make sure it is reactive
+~~- Make sure it is reactive
 ~~- Favicon
 
 Publish
-- Domain
-- Deploy
+~~- Domain
+~~- Deploy
+- Get proper SEO
