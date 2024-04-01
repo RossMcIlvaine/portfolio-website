@@ -8,7 +8,7 @@
         "Design features for applications serving a large user base, ensuring optimal performance and user experience"
     ];
     let tattleDetais = [
-        "Launched marketing website redesign for desktop and mobile using HTML, CSS, and Javascript inside a Svelte application",
+        "Launched marketing website redesign for desktop and mobile using HTML, CSS, and JavaScript inside a Svelte application",
         "Created and managed backend for form submission using AWS DynamoDB, Lambda, and API Gateway",
         "Worked alongside engineering team in Agile development environment",
         "Directed multiples website advancement showcases to wider organization"

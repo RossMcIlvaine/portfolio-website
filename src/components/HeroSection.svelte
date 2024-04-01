@@ -10,7 +10,7 @@
             I currently work at Epic Systems, where I get to do just that as a lead developer on the Data Warehousing team.
             <br><br>
             I graduated from the University of Notre Dame in May of 2022 with a Bachelor of Science in Computer Science.
-            Besides Notre Dame athletics I'm a huge fan of the Yankees, and unfortunately for me I do follow the Giants during football season.
+            Besides Notre Dame athletics I'm a die hard Yankee fan, and I love to hate the Giants when football season comes around.
             School also introduced me to Gaelic Athletics, and I'm currently a member of the Madison Hailstones Hurling Team.
             Outside of work I like going on runs around the lakes and playing golf on the weekends. I also enjoy reading and experimenting in the kitchen when I'm not outside.
         </p>
