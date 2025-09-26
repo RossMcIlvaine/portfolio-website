@@ -1,25 +1,32 @@
 <script>
     import Experience from "./Experience.svelte";
 
+    let tattleDetais = [
+        "Collaborated with the AI Development team to design and create classification and matching APIs for customer data",
+        "Managed prompt engineering efforts during development to minimize token use and maximize the precision of the model",
+        "Built unit test functions in C# to quickly compare the performance of multiple models against many datasets"
+    ];
+    let carsonDetails = [
+        "Acted as lead developer for a new product comparison tool using React and C#",
+        "Coordinated multiple initiatives to overhaul visuals and improve performance metrics across the site",
+        "Ensured internationalization of all new site development using i18nexus"
+    ];
     let epicDetails = [
-        "Project Lead for user requested functionality to create bridges between external datasets and Epic’s data analytics platforms", 
-        "Lead Developer for newly released data ingestion application using TypeScript, React, C#, and SQL",
-        "Conduct SQL performance review for development across the company",
+        "Spearheaded new functionality to create foreign key joins between external datasets and Epic’s data model", 
+        "Lead UI and API Developer for a data integration application serving over 5,000 users",
+        "Conducted SQL performance and code review for development projects across the company",
         "Design features for applications serving a large user base, ensuring optimal performance and user experience"
     ];
-    let tattleDetais = [
-        "Launched marketing website redesign for desktop and mobile using HTML, CSS, and JavaScript inside a Svelte application",
-        "Created and managed backend for form submission using AWS DynamoDB, Lambda, and API Gateway",
-        "Worked alongside engineering team in Agile development environment",
-        "Directed multiples website advancement showcases to wider organization"
-    ]
 </script>
 
 <div class="flex flex-col items-center space-y-5 w-11/12">
-    <Experience company="Epic Systems" title="Full Stack Developer" startDate="August 2022" endDate="Present" details={epicDetails}>
-        <!-- <img class="w-24 h-12 bg-white" slot="photo" src="/images/epic.png" alt="Epic Systems Logo"/> -->
-    </Experience>
-    <Experience company="Tattle" title="Engineering Intern" startDate="May 2021" endDate="August 2021" details={tattleDetais}>
+    <Experience company="Tattle" title="AI Development Intern" startDate="January 2025" endDate="July 2025" details={tattleDetais}>
         <!-- <img class="w-12 h-12 rounded-full" slot="photo" src="/images/tattle_logo.png" alt="Tattle Logo"/> -->
     </Experience> 
+    <Experience company="Carson Optical" title="Website Developer" startDate="January 2025" endDate="July 2025" details={carsonDetails}>
+        <!-- <img class="w-12 h-12 rounded-full" slot="photo" src="/images/tattle_logo.png" alt="Tattle Logo"/> -->
+    </Experience>
+    <Experience company="Epic Systems" title="Full Stack Developer" startDate="August 2022" endDate="August 2024" details={epicDetails}>
+        <!-- <img class="w-24 h-12 bg-white" slot="photo" src="/images/epic.png" alt="Epic Systems Logo"/> -->
+    </Experience>
 </div>
