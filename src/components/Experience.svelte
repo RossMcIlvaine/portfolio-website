@@ -11,7 +11,7 @@
         <h2 class="text-white text-2xl">{company}</h2>
         <h3 class="text-white text-1xl"><i>{title}</i> | <i>{startDate} - {endDate}</i></h3>
         {#each details as detail}
-            <li class="text-white">
+            <li class="text-white list-none">
                 {detail}
             </li>
         {/each}

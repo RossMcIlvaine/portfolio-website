@@ -9,6 +9,6 @@
         <SocialButton url="https://www.linkedin.com/in/ross-mcilvaine-95355a16b/" color="linkedin"/> 
         <SocialButton url="https://www.instagram.com/rossmcilvaine/" color="instagram"/>
     </div>
-    <h3 class="text-white mt-2 text-center">@ 2024 Ross McIlvaine IV.</h3>
+    <h3 class="text-white mt-2 text-center">@ 2025 Ross McIlvaine IV.</h3>
     <h3 class="text-white mt-2 text-center">All Rights Reserved.</h3>
 </main>
