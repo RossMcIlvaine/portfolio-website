@@ -12,7 +12,7 @@
     let school2 = "University of Illinois Urbana-Champaign";
     let degree2 = "Master of Computer Science";
     let startDate2 = "August 2025";
-    let endDate2 = "Current";
+    let endDate2 = "May 2027 (Expected)";
 
 </script>
 
